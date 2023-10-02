@@ -40,8 +40,9 @@ Hi 👋, I'm Alessandro Rondolini<br>A passionate FullStack Developer from Perug
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=thisisWoe&theme=radical&hide_border=false&include_all_commits=false&count_private=false?style=center)
-
+<div>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisWoe&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thisisWoe&theme=radical&hide_border=false)
 
