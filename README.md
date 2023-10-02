@@ -26,8 +26,9 @@ Hi 👋, I'm Alessandro Rondolini<br>A passionate FullStack Developer from Perug
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
-[![](https://visitcount.itsvg.in/api?id=thisisWoe&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=thisisWoe)
+
 ![](https://github-readme-stats.vercel.app/api?username=thisisWoe&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thisisWoe&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisWoe&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=thisisWoe&icon=0&color=0)](https://visitcount.itsvg.in)
