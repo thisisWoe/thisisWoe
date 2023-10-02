@@ -1,3 +1,4 @@
+![App Screenshot](https://i.postimg.cc/qBDTPFYy/Backgrounf-Linked-In-2.png)
 # 💫 About Me:
 Hi 👋, I'm Alessandro Rondolini<br>A passionate FullStack Developer from Perugia, Italy!
 
