@@ -20,7 +20,7 @@ Hi 👋, I'm Alessandro Rondolini<br>A passionate FullStack Developer from Perug
 ![Threejs](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/anime.js-yellow?style=flat&logo=funimation)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) 
-![Static Badge](https://img.shields.io/badge/amChart.js-yellow?style=flat&logo=chart.js) 
+![Static Badge](https://img.shields.io/badge/amChart.js-black?style=flat&logo=chart.js) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
