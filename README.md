@@ -1,9 +1,9 @@
 ![App Screenshot](https://i.postimg.cc/qBDTPFYy/Backgrounf-Linked-In-2.png)
-Hi 👋, I'm Alessandro Rondolini<br>A passionate FullStack Developer from Perugia, Italy!
-
-I have a strong foundation in web development technologies cause I've completed an intensive course that equipped me with skills in the vast world of web development. I pay close attention to details and aesthetics, dedicated to creating engaging user experiences. 
-
+Hi 👋, I'm Alessandro Rondolini<br>A passionate FullStack Developer from Perugia, Italy!<br>
+I have a strong foundation in web development technologies cause I've completed an intensive course that equipped me with skills in the vast world of web development. I pay close attention to details and aesthetics, dedicated to creating engaging user experiences.<br>
 I'm always open to discovering new technologies!
+
+![Static Badge](https://img.shields.io/badge/crypto-Blockchain-Entusiast-yellow?style=flat&logo=bitcoin)
 
 # Skills:
 
