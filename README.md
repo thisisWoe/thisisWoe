@@ -49,3 +49,8 @@ I'm always open to discovering new technologies!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thisisWoe&theme=radical&hide_border=false)
 
 </div>
+
+## Contact Me
+
+[![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://www.github.com/thisisWoe)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-rondolini/)
+[![Static Badge](https://img.shields.io/badge/Mail%20Me-violet?style=flat&logo=gmail)](mailto:alessandro.rondolini.96@gmail.com?subject=Job_Offer)
