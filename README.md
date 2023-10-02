@@ -29,6 +29,6 @@ Hi 👋, I'm Alessandro Rondolini<br>A passionate FullStack Developer from Perug
 ![](https://komarev.com/ghpvc/?username=thisisWoe)
 
 ![](https://github-readme-stats.vercel.app/api?username=thisisWoe&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=thisisWoe&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisWoe&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=thisisWoe&theme=radical&hide_border=false)
 [![](https://visitcount.itsvg.in/api?id=thisisWoe&icon=0&color=0)](https://visitcount.itsvg.in)
