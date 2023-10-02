@@ -4,7 +4,6 @@ I have a strong foundation in web development technologies cause I've completed 
 I'm always open to discovering new technologies!
 
 ![Static Badge](https://img.shields.io/badge/Crypto%20%26%20Blockchain%20enthusiast-yellow?style=flat&logo=bitcoin)
-
 # Skills:
 
 🚀 Develop robust and scalable web applications using the latest technologies and frameworks.
