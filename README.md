@@ -3,7 +3,7 @@ Hi 👋, I'm Alessandro Rondolini<br>A passionate FullStack Developer from Perug
 I have a strong foundation in web development technologies cause I've completed an intensive course that equipped me with skills in the vast world of web development. I pay close attention to details and aesthetics, dedicated to creating engaging user experiences.<br>
 I'm always open to discovering new technologies!
 
-![Static Badge](https://img.shields.io/badge/crypto-Blockchain-Entusiast-yellow?style=flat&logo=bitcoin)
+![Static Badge](https://img.shields.io/badge/Crypto%20%26%20Blockchain%20enthusiast-yellow?style=flat&logo=bitcoin)
 
 # Skills:
 
