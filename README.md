@@ -52,5 +52,4 @@ I'm always open to discovering new technologies!
 
 ## 📱 Contact Me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-rondolini/)
-
 [![Static Badge](https://img.shields.io/badge/Mail%20Me-violet?style=flat&logo=gmail)](mailto:alessandro.rondolini.96@gmail.com?subject=Job_Offer)
