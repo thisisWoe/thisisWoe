@@ -40,7 +40,7 @@ I'm always open to discovering new technologies!
 
 # 📊 Epicode Course Exam Results:
 
-| Argument | Theory | Practise |
+| Topic | Theory | Practise |
 | :---         |     :---:      |          ---: |
 |  | `FrontEnd` |  |
 | `HTML & CSS I` | 28/32 (87.5%) | 9/10      |
