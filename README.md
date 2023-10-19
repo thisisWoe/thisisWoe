@@ -42,7 +42,7 @@ I'm always open to discovering new technologies!
 
 | Argument | Theory | Practise |
 | :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
+| `HTML & CSS I` | 28/32 (87.5%) | 9/10 |
 | git diff     | git diff       | git diff      |
 
 # 📊 GitHub Stats:
