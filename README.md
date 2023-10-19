@@ -42,8 +42,23 @@ I'm always open to discovering new technologies!
 
 | Argument | Theory | Practise |
 | :---         |     :---:      |          ---: |
-| `HTML & CSS I` | 28/32 (87.5%) | 9/10 |
-| git diff     | git diff       | git diff      |
+| `HTML & CSS I` | 28/32 (87.5%) | 9/10      |
+| `HTML & CSS II & UX e UI` | 34/37 (91.89%) | 9/10      |
+| `Bootstrap & SASS` | 27/27 (100%) | 9.5/10      |
+| `Javascript I` | 21/32 (65.63%) | 8.8/10      |
+| `Javascript II` | 20/28 (82.15%) | 10/10      |
+| `Javascript III` | 28/31 (90.32%) | 9.5/10      |
+| `Typescript` | 32/32 (100%) | 9/10      |
+| `Angular I` | 32/32 (100%) | 10/10      |
+| `Angular II` | 32/32 (100%) | 9.5      |
+| `` |  |       |
+| `Java Programming I` | 49/50 (98%) | 9/10      |
+| `Java Programming II` | 43/45 (95.56%) | 9/10      |
+| `Java Persistence` | 48/50 (96%) | 9/10      |
+| `Spring Boot I` | 47/50 (94%) | 9/10      |
+| `Spring Boot II` | 40/43 (93.02%) | 10/10      |
+| `Security & Programming Best Practices` | 49/50 (98%) | 9/10      |
+
 
 # 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=thisisWoe)
