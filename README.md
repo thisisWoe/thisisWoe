@@ -41,8 +41,8 @@ I'm always open to discovering new technologies!
 # 📊 Epicode Course Exam Results:
 
 | Argument | Theory | Practise |
-|  | FrontEnd |  |
 | :---         |     :---:      |          ---: |
+|  | `FrontEnd` |  |
 | `HTML & CSS I` | 28/32 (87.5%) | 9/10      |
 | `HTML & CSS II & UX e UI` | 34/37 (91.89%) | 9/10      |
 | `Bootstrap & SASS` | 27/27 (100%) | 9.5/10      |
