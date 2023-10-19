@@ -52,13 +52,15 @@ I'm always open to discovering new technologies!
 | `Typescript` | 32/32 (100%) | 9/10      |
 | `Angular I` | 32/32 (100%) | 10/10      |
 | `Angular II` | 32/32 (100%) | 9.5      |
-| `` |  |       |
+|  | `BackEnd` |  |
 | `Java Programming I` | 49/50 (98%) | 9/10      |
 | `Java Programming II` | 43/45 (95.56%) | 9/10      |
 | `Java Persistence` | 48/50 (96%) | 9/10      |
 | `Spring Boot I` | 47/50 (94%) | 9/10      |
 | `Spring Boot II` | 40/43 (93.02%) | 10/10      |
 | `Security & Programming Best Practices` | 49/50 (98%) | 9/10      |
+|  |  |       |
+| `Average` |  | `9.3`      |
 
 
 # 📊 GitHub Stats:
