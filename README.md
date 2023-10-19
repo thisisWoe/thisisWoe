@@ -37,6 +37,14 @@ I'm always open to discovering new technologies!
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+
+# 📊 Epicode Course Exam Results:
+
+| Argument | Theory | Practise |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
 # 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=thisisWoe)
 
