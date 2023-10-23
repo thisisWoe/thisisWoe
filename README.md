@@ -1,5 +1,5 @@
 ![App Screenshot](https://i.postimg.cc/qBDTPFYy/Backgrounf-Linked-In-2.png)
-Hi 👋, I'm Alessandro Rondolini<br>A passionate FullStack Developer from Perugia, Italy!<br>
+Hi 👋, I'm Alessandro Rondolini, a FullStack Developer based in Perugia, Italy!<br>
 I have a strong foundation in web development technologies because I've completed an intensive course that equipped me with skills in the vast world of web development. I pay close attention to details and aesthetics, and I'm dedicated to creating engaging user experiences.<br>
 I'm always open to discovering new technologies!
 
